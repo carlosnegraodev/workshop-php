@@ -1,3 +1,4 @@
+<?php
 echo "<br><hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 $conn = new mysqli("mysql", "redhat", "redhat@123", "workshop");
